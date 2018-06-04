@@ -1,0 +1,3 @@
+Using Hibernate.
+This program about students, owns exams and subject.
+Screen database is including in package.
